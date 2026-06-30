@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.528e1dac.css",
-    "main.js": "/static/js/main.f28cb5e2.js",
-    "index.html": "/index.html",
-    "main.528e1dac.css.map": "/static/css/main.528e1dac.css.map",
-    "main.f28cb5e2.js.map": "/static/js/main.f28cb5e2.js.map"
+    "main.css": "/heard-microsite-public/static/css/main.528e1dac.css",
+    "main.js": "/heard-microsite-public/static/js/main.a4fbab9e.js",
+    "index.html": "/heard-microsite-public/index.html",
+    "main.528e1dac.css.map": "/heard-microsite-public/static/css/main.528e1dac.css.map",
+    "main.a4fbab9e.js.map": "/heard-microsite-public/static/js/main.a4fbab9e.js.map"
   },
   "entrypoints": [
     "static/css/main.528e1dac.css",
-    "static/js/main.f28cb5e2.js"
+    "static/js/main.a4fbab9e.js"
   ]
 }
